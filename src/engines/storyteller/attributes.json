@@ -1,0 +1,74 @@
+{
+    "PSM": [
+        {
+            "background": "3",
+            "training": "3",
+            "master": "3",
+            "purpose": "4",
+            "flaw": "4",
+            "hobby": "1",
+            "accessory": "1",
+            "quote": "3"
+        }
+    ],
+    "PMS": [
+        {
+            "background": "3",
+            "training": "3",
+            "master": "4",
+            "purpose": "3",
+            "flaw": "2",
+            "hobby": "1",
+            "accessory": "1",
+            "quote": "1"
+        }
+    ],
+    "SMP": [
+        {
+            "background": "4",
+            "training": "2",
+            "master": "3",
+            "purpose": "4",
+            "flaw": "4",
+            "hobby": "3",
+            "accessory": "2",
+            "quote": "3"
+        }
+    ],
+    "SPM": [
+        {
+            "background": "3",
+            "training": "3",
+            "master": "3",
+            "purpose": "4",
+            "flaw": "4",
+            "hobby": "3",
+            "accessory": "2",
+            "quote": "1"
+        }
+    ],
+    "MSP": [
+        {
+            "background": "4",
+            "training": "4",
+            "master": "4",
+            "purpose": "4",
+            "flaw": "4",
+            "hobby": "4",
+            "accessory": "4",
+            "quote": "3"
+        }
+    ],
+    "MPS": [
+        {
+            "background": "1",
+            "training": "4",
+            "master": "3",
+            "purpose": "4",
+            "flaw": "3",
+            "hobby": "3",
+            "accessory": "2",
+            "quote": "2"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "sam-sepi/farm",
+    "description": "Engine for rpg by chat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sam sepi",
+            "email": "sam.sepi.84@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Farm\\Libraries\\": "./src/libraries",
+            "Farm\\App\\": "./src/app",
+            "Farm\\Engines\\": "./src/engines",
+            "Farm\\Engines\\Storyteller\\": "./src/engines/storyteller"
+        }
+    }
+}

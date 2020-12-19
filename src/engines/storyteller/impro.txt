@@ -1,0 +1,55 @@
+Provenienza
+
+Orfanotrofio. [nosferatu, malkavian]
+Cittadina rurale. [gangrel, tzimisce]
+Periferia. [toreador, brujah]
+Quartiere esclusivo. [ventrue, lasombra]
+
+Luogo della formazione:
+
+Una piccola comunità. [gangrel, malkavian]
+Gli antichi testi. [tzimisce, lasombra]
+La strada. [nosferatu, brujah]
+L'università. [ventrue, toreador]
+
+Mentore
+
+La pallida luna. [gangrel, malkavian]
+Un profeta visionario. [brujah, tzimisce]
+Un sinistro precettore. [nosferatu, lasombra]
+Un raffinato docente. [ventrue, toreador]
+
+Scopo
+
+Famiglia.  [malkavian - rete, gangrel]
+Mutamento. [tzimisce, brujah]
+Conoscenza. [toreador, nosferatu]
+Potere. [lasombra, ventrue]
+
+Come ti definirebbero i tuoi detrattori
+
+Feccia. [brujah, gangrel]
+Mostro. [nosferatu, tzimisce]
+Folle. [malkavian, toreador]
+Infido. [ventrue, lasombra]
+
+Interesse
+
+La rete. [nosferatu, malkavian]
+La natura. [tzimisce, gangrel]
+L'avant-garde. [toreador, brujah]
+La politica. [lasombra, ventrue]
+
+A cosa non puoi rinunciare
+
+La mia tarantola domestica. [Nosferatu, Malkavian]
+L'abito. [Lasombra, Toreador]
+La cassetta con Mademoiselle Nobs. [Brujah, Gangrel]
+Le tradizioni. [Ventrue, Tzimisce]
+
+Citazione
+
+Chi sei tu che difeso dalla notte entri nel mio chiuso pensiero? [nosferatu, lasombra]
+Ascoltateli. I figli della notte... quale dolce musica emettono. [gangrel, tzimisce]
+Né mai a un Principe mancheranno cagioni legittime di colorare l'inosservanza. [ventrue, toreador]
+E in definitiva la vita degli uomini nient'altro è che un gioco della pazzia. [malkavian, brujah]

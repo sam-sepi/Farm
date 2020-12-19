@@ -1,0 +1,98 @@
+{
+    "brujah": [
+        {
+            "background": "3",
+            "training": "3",
+            "master": "2",
+            "purpose": "2",
+            "flaw": "1",
+            "hobby": "3",
+            "accessory": "3",
+            "quote": "4"
+        }
+    ],
+    "gangrel": [
+        {
+            "background": "2",
+            "training": "1",
+            "master": "1",
+            "purpose": "1",
+            "flaw": "1",
+            "hobby": "2",
+            "accessory": "3",
+            "quote": "2"
+        }
+    ],
+    "lasombra": [
+        {
+            "background": "4",
+            "training": "2",
+            "master": "3",
+            "purpose": "4",
+            "flaw": "4",
+            "hobby": "4",
+            "accessory": "2",
+            "quote": "1"
+        }
+    ],
+    "malkavian": [
+        {
+           "background": "1",
+           "training": "1",
+           "master": "1",
+           "purpose": "3",
+           "flaw": "1",
+           "hobby": "1",
+           "accessory": "1",
+           "quote": "4"
+        }
+    ],
+    "nosferatu": [
+        {
+           "background": "1",
+           "training": "3",
+           "master": "3",
+           "purpose": "3",
+           "flaw": "2",
+           "hobby": "1",
+           "accessory": "1",
+           "quote": "1"
+        }
+    ],
+    "toreador": [
+        {
+           "background": "3",
+           "training": "4",
+           "master": "4",
+           "purpose": "3",
+           "flaw": "3",
+           "hobby": "3",
+           "accessory": "2",
+           "quote": "3"
+        }
+    ],
+    "tzimisce": [
+        {
+           "background": "2",
+           "training": "2",
+           "master": "2",
+           "purpose": "2",
+           "flaw": "2",
+           "hobby": "2",
+           "accessory": "4",
+           "quote": "2"
+        }
+    ],
+    "ventrue": [
+        {
+           "background": "4",
+           "training": "4",
+           "master": "4",
+           "purpose": "4",
+           "flaw": "4",
+           "hobby": "4",
+           "accessory": "4",
+           "quote": "3"
+        }
+    ]
+}
