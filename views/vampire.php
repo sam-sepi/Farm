@@ -11,9 +11,8 @@ $input = [
             'quote' => '4' 
         ];
 
-$chars = new Farm\Engines\Storyteller\Clan($input);
-$array = new Farm\Engines\Storyteller\Attributes($input);
+$chars = new Farm\Engines\Storyteller\Vampire($input);
 $chars->setClan('/opt/lampp/htdocs/Farm/src/engines/storyteller/clans.json');
-$array->setAttributes('/opt/lampp/htdocs/Farm/src/engines/storyteller/attributes.json');
+$chars->setAttributes('/opt/lampp/htdocs/Farm/src/engines/storyteller/attributes.json');
+$chars->setSkills('/opt/lampp/htdocs/Farm/src/engines/storyteller/attributes.json');
 var_dump($chars->getApi());
-var_dump($array->getApi());
