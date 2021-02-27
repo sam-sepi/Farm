@@ -102,7 +102,7 @@ class DbWrapper extends PDO implements DbInterface
      * 
      * @return mixed. Depends on query type
      */
-    public function run(string $sql, array $params = null) 
+    public function run(string $sql, array $params = null): mixed
     {
 
         try {

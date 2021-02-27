@@ -18,7 +18,7 @@ abstract class CreationEngine
     }
 
     /**
-     * Undocumented function
+     * getApi
      *
      * @return array
      */
@@ -28,7 +28,7 @@ abstract class CreationEngine
     }
 
     /**
-     * Undocumented function
+     * getEuclideandistance
      *
      * @param array $a
      * @param array $b
@@ -52,12 +52,12 @@ abstract class CreationEngine
     }
     
     /**
-	 * Undocumented function
+	 * getDistances
 	 *
 	 * @param string $path
-	 * @return void
+	 * @return array
 	 */
-	protected function getDistances(string $path)
+	protected function getDistances(string $path): array
 	{
 		$file = JsonHandling::decodeFromFile($path);
 
@@ -75,7 +75,7 @@ abstract class CreationEngine
 	}
 
     /**
-     * Undocumented function
+     * iteratorArray
      *
      * @param array $array
      * @return array
